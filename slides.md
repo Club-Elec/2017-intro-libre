@@ -230,3 +230,9 @@ Note: Plusieurs logiciels libres importants sont développés par des fondations
 * **Logiciels et objets libres** par *Stéphane Ribas*, *Patrick Guillaud*, *Stéphane Ubeda*
 
 <!-- .element: style="font-size:70%" -->
+
+-----------------
+
+## Des questions ?
+
+Si le temps le permet...
