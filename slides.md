@@ -1,7 +1,7 @@
 ## Introduction<br/>au libre
 
 
-## Me
+## Qui suis-je ?
 
 ![](assets/pp-moz-round.png)<!-- .element: class="plain" width="200px" -->
 
@@ -61,7 +61,7 @@ Note: Plus intégralement libre maintenant, mais l'était au départ
 
 ### Et plein d'autres
 
-Notepad++, Apache, GCC, outils de big data, SteamOS, Visual Studio Code...
+Notepad++, Apache, GCC, outils de big data, Visual Studio Code...
 
 -----------------
 
@@ -156,7 +156,7 @@ Note:
 * WTFPL ne contient qu'une clause : 0. You just DO WHAT THE FUCK YOU WANT TO. (domaine public)
 
 
-### Les licences autres
+### Les licences multimédia
 
 Les Creative Commons : CC-BY-SA, CC-BY, CC-0...
 
@@ -186,7 +186,7 @@ Note: Version communautaire vs version professionnelle
 Exemples : Jetbrains, Piwik, CitizenData, GitLab
 
 
-## Vente de service
+## Vente de services
 
 Note: Ex: hébergement, support
 
@@ -201,7 +201,9 @@ Note: Plusieurs logiciels libres importants sont développés par des fondations
 
 -----------------
 
-## La collaboration
+## Les communautés
+
+Une histoire de collaboration et de contribution
 
 
 ## Différents types
