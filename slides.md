@@ -170,6 +170,37 @@ Interdisent toutes le dépôt de brevet.
 
 -----------------
 
+# Le business du libre
+
+Les business models des projets libres
+
+Note: Pas trop s'attarder, repris probablement par JB Kempf
+
+Des entreprises vivent du logiciel libre
+
+
+## Version entreprise
+
+Note: Version communautaire vs version professionnelle
+
+Exemples : Jetbrains, Piwik, CitizenData, GitLab
+
+
+## Vente de service
+
+Note: Ex: hébergement, support
+
+Évolution d'une partie du marché de l'informatique : le produit n'est plus le logiciel, mais le service rendu
+
+Exemples : GitLab, Cozy (B2B)
+
+
+## Bonus : le don
+
+Note: Plusieurs logiciels libres importants sont développés par des fondations
+
+-----------------
+
 ## Bibliographie
 
 * **Richard Stallman et la révolution du logiciel libre** par *R. M. Stallman*, *S. Williams*, *C. Masutti*
