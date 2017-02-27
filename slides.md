@@ -170,7 +170,7 @@ Interdisent toutes le dépôt de brevet.
 
 -----------------
 
-# Le business du libre
+## Le business du libre
 
 Les business models des projets libres
 
@@ -198,6 +198,28 @@ Exemples : GitLab, Cozy (B2B)
 ## Bonus : le don
 
 Note: Plusieurs logiciels libres importants sont développés par des fondations
+
+-----------------
+
+## La collaboration
+
+
+## Différents types
+
+
+## Le code
+
+
+## La documentation
+
+
+## La traduction
+
+
+## La remontée de bugs
+
+
+## Etc...
 
 -----------------
 
