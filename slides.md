@@ -20,6 +20,7 @@ C'est quoi, au fait ?
 
 ## Libre &ne; open source
 
+-----------------
 
 ## Les origines
 
@@ -49,6 +50,20 @@ Repris par Christophe Masutti dans Histoires et cultures du Libre
 0. Les hackers doivent être jugés sur leurs activités (leurs hacks) et non suivant des critères « bidons » comme le diplôme, l’âge, l’origine ethnique ou le rang social.
 0. On peut créer l’art et le beau à l’aide d’un ordinateur.
 0. Les ordinateurs peuvent améliorer notre vie.
+
+
+### Richard Matthew Stallman
+
+![](assets/rms.jpg)<!-- .element: width="700px" -->
+
+[*aka* St Ignucius](http://media.leschatscosmiques.net/medias/conferences/rms-20-ans-apres/article/rms-ignucius)
+
+Note: Conférence du 12/05/2015 à Brest (UBO, fac de lettres, Segalen)
+
+
+### Une histoire d'imprimante
+
+![](assets/xerox.jpg)
 
 
 ### La Free Software Foundation
