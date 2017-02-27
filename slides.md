@@ -21,10 +21,9 @@ C'est quoi, au fait ?
 ## Libre &ne; open source
 
 
-## Un peu d'histoire
+## Les origines
 
 * Né au début des années 80
-* Richard M. Stallman et son imprimante
 * Inspiré de la *culture hacker*
 
 
