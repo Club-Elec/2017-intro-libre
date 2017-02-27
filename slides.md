@@ -115,6 +115,61 @@ Note: Conférence du 12/05/2015 à Brest (UBO, fac de lettres, Segalen)
 
 -----------------
 
+## Les licences
+
+Note: Document écrit accompagnant la ressource (CGU)
+
+Définit interaction avec ressource
+
+Licence libre : Application légale des 4 libertés du libre
+
+
+## Les licences GPL
+
+GPL, LGPL, AGPL, FDL
+
+[https://www.gnu.org/licenses/licenses.fr.html](https://www.gnu.org/licenses/licenses.fr.html)
+
+Note: Toutes sauf FDL : Logiciel libre (pas d'autres ressources)
+
+Garantissent les libertés fondamentales et le partage à l'identique (= sous la même licence). Une version modifiée redistribuée doit contenir la liste des changements.
+
+* LGPL : La licence publique générale amoindrie est adoptée par certaines bibliothèques de composants (mais, de loin, pas par toutes)
+* AGPL (GNU Affero) : basée sur la GPL, mais clause additionnelle qui autorise les utilisateurs interagissant avec le logiciel via un réseau à recevoir les sources de ce programme.
+* GNU FDL (Free Documentation License) : forme de copyleft destinée aux manuels, aux livres scolaires et autres documents.
+
+
+## Les autres licences
+
+
+### Les licences de logiciel
+
+Apache, BSD, MIT, WTFPL...
+
+[https://choosealicense.com/appendix/](https://choosealicense.com/appendix/)
+
+Note:
+
+* Apache empêche l'utilisateur de déposer une marque sur le logiciel
+* BSD interdit ou n'autorise pas expressément (selon la licence) le dépôt de brevet sur le logiciel
+* MIT (ou X11) n'impose aucune condition, et ne protège donc pas l'utilisateur (domaine public)
+* WTFPL ne contient qu'une clause : 0. You just DO WHAT THE FUCK YOU WANT TO. (domaine public)
+
+
+### Les licences autres
+
+Les Creative Commons : CC-BY-SA, CC-BY, CC-0...
+
+Note: Permet de publier des ressources sous licence libre. Axée multimédia.
+
+Interdisent toutes le dépôt de brevet.
+
+* CC-BY-SA impose l'attribution (citation) et le partage à l'identique (même licence) ~= GPL
+* CC-BY impose l'attribution (citation)
+* CC-0 indique un intérêt pour la paternité de la ressource, mais n'impose aucune condition de partage (domaine public)
+
+-----------------
+
 ## Bibliographie
 
 * **Richard Stallman et la révolution du logiciel libre** par *R. M. Stallman*, *S. Williams*, *C. Masutti*
