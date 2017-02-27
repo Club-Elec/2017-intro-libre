@@ -236,3 +236,8 @@ Note: Plusieurs logiciels libres importants sont développés par des fondations
 ## Des questions ?
 
 Si le temps le permet...
+
+
+__Value your freedom or you will lose it__
+
+<object id="stignucius" data="assets/stignucius.svg" type="image/svg+xml" onload="stignucius_animate()"><!-- .element: style="height: 450px; width: auto" -->
