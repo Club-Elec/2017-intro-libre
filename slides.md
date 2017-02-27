@@ -20,6 +20,49 @@ C'est quoi, au fait ?
 
 ## Libre &ne; open source
 
+
+## Les 4 libertés
+
+* La liberté de profiter de la ressource dans n'importe quel but
+* La liberté d'étudier la ressource et de l'adapter à ses besoins
+* La liberter de distribuer la ressource
+* La liberter d'améliorer la ressource et de distriber ses modifications
+
+<!-- .element: style="font-size:70%" -->
+
+Note: Ressource = cf slide suivante
+
+
+### Sous toutes ses formes
+
+Logiciels, images, vidéos...
+
+
+## Vous en connaissez
+
+
+![](assets/firefox.png)<!-- .element: class="plain" width="600px" -->
+
+
+![](assets/GNU.png)<!-- .element: class="plain" width="450px" -->
+![](assets/Tux.png)<!-- .element: class="plain" width="450px" -->
+
+
+![](assets/wikipedia.png)<!-- .element: class="plain" width="600px" -->
+
+
+![](assets/android.png)<!-- .element: class="plain" width="500px" -->
+
+Note: Plus intégralement libre maintenant, mais l'était au départ
+
+
+![](assets/vlc.png)<!-- .element: class="plain" width="500px" -->
+
+
+### Et plein d'autres
+
+Notepad++, Apache, GCC, outils de big data, SteamOS, Visual Studio Code...
+
 -----------------
 
 ## Les origines
