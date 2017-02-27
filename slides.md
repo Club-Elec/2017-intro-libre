@@ -233,10 +233,18 @@ Note: Plusieurs logiciels libres importants sont développés par des fondations
 
 -----------------
 
+## Liens utiles
+
+* https://www.framasoft.org
+* https://www.april.org
+
+-----------------
+
 ## Des questions ?
 
 Si le temps le permet...
 
+-----------------
 
 __Value your freedom or you will lose it__
 
