@@ -25,8 +25,8 @@ C'est quoi, au fait ?
 
 * La liberté de profiter de la ressource dans n'importe quel but
 * La liberté d'étudier la ressource et de l'adapter à ses besoins
-* La liberter de distribuer la ressource
-* La liberter d'améliorer la ressource et de distriber ses modifications
+* La liberté de distribuer la ressource
+* La liberté d'améliorer la ressource et de distribuer ses modifications
 
 <!-- .element: style="font-size:70%" -->
 
@@ -192,7 +192,7 @@ Note: Ex: hébergement, support
 
 Évolution d'une partie du marché de l'informatique : le produit n'est plus le logiciel, mais le service rendu
 
-Exemples : GitLab, Cozy (B2B)
+Exemples : Redhat, GitLab, Cozy (B2B)
 
 
 ## Bonus : le don
