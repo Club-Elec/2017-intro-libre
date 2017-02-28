@@ -55,13 +55,18 @@
 
 
 			function stignucius_animate(){
+
 				var s = Snap("#stignucius").select("#ring");
 
-				setInterval(function(){
-					s.animate({transform: "translate(-227 -583)"}, 1500, mina.easeinout, function(){
-						s.animate({transform: "translate(-227 -578)"}, 1500, mina.easeinout);
+				s.attr({transform: "translate(51.1 22) scale(1.1)"});
+				function animate(){
+					s.animate({transform: "translate(51.1 22) scale(1.1)"}, 1500, mina.easeinout, function(){
+						s.animate({transform: "translate(51.1 19) scale(1.0)"}, 1500, mina.easeinout);
 					});
-				},3000);
+				}
+
+				animate();
+				setInterval(animate, 3000);
 
 			}
 		</script>
