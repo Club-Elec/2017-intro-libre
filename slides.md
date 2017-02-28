@@ -61,7 +61,7 @@ Note: Plus intégralement libre maintenant, mais l'était au départ
 
 ### Et plein d'autres
 
-Notepad++, Apache, GCC, outils de big data, Visual Studio Code...
+Notepad++, Apache, GCC, outils de big data, LevelDB, Visual Studio Code...
 
 -----------------
 
