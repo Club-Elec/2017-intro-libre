@@ -237,6 +237,8 @@ Une histoire de collaboration et de contribution
 
 ## Liens utiles
 
+* https://www.fsf.org/
+* https://www.gnu.org/home.fr.html
 * https://www.framasoft.org
 * https://www.april.org
 
