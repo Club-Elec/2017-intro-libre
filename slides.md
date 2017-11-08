@@ -41,22 +41,24 @@ Logiciels, images, vidéos...
 ## Vous en connaissez
 
 
-![](assets/firefox.png)<!-- .element: class="plain" width="600px" -->
+# ![](assets/firefox.png)<!-- .element: class="plain" width="600px" -->
 
 
-![](assets/GNU.png)<!-- .element: class="plain" width="450px" -->
-![](assets/Tux.png)<!-- .element: class="plain" width="450px" -->
+# ![](assets/GNU.png)<!-- .element: class="plain" width="450px" -->
 
 
-![](assets/wikipedia.png)<!-- .element: class="plain" width="600px" -->
+# ![](assets/Tux.png)<!-- .element: class="plain" width="450px" -->
 
 
-![](assets/android.png)<!-- .element: class="plain" width="500px" -->
+# ![](assets/wikipedia.png)<!-- .element: class="plain" width="600px" -->
+
+
+# ![](assets/android.png)<!-- .element: class="plain" width="500px" -->
 
 Note: Plus intégralement libre maintenant, mais l'était au départ
 
 
-![](assets/vlc.png)<!-- .element: class="plain" width="500px" -->
+# ![](assets/vlc.png)<!-- .element: class="plain" width="500px" -->
 
 
 ### Et plein d'autres
